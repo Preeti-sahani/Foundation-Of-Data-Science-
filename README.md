@@ -1,4 +1,4 @@
-# Foundation-Of-Data-Science-
+# Foundation-Of-Data-Science
 
 This repository is only for my college practical submission.
 
