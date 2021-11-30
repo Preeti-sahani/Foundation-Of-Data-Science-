@@ -1,6 +1,6 @@
 # Foundation-Of-Data-Science
 
-         This repository is only for my college practical submissions.
+         This repository is college practical submissions.
 
          Subject Name : Foundation Of Data Science 
 
